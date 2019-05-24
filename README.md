@@ -45,7 +45,7 @@ These example show the power of engines by providing a large set of relatively s
 At some point, there was a talk that suggested the approach of putting my our functionality into engines and that the Rails team seemed to be devoting more and more time to make them a first class citizen. Our friends at Pivotal Labs were talking about it a lot, too. Sometimes
 [good](http://pivotallabs.com/migrating-from-a-single-rails-app-to-a-suite-of-rails-engines/)
 and sometimes
-[not so good](http://pivotallabs.com/experience-report-engine-usage-that-didn-t-work/).
+[not so good](https://content.pivotal.io/blog/experience-report-engine-usage-that-didnt-work).
 
 [back to top](#top)
 
